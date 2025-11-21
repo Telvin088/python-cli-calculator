@@ -7,4 +7,4 @@ The module is then imported and used in the main_cli.py file, which is responsib
 - Handles invalid inputs (letters instead of numbers)
 - Safe divide-by-zero handling
 - Clean user interface
-- Loop menu with exit option
+- Loop menu with exit option.
